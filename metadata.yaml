@@ -1,0 +1,45 @@
+_repo: Een-Broertje-van-den-Beer_20957
+_version: 0.1.0
+alternative_title: A Little Brother to the Bear, and other Animal Studies. Dutch
+contributor:
+  illustrator:
+    agent_name: Copeland, Charles
+    birthdate: 1858
+    deathdate: 1929
+    gutenberg_agent_id: '3033'
+    url: http://www.gutenberg.org/2009/agents/3033
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Copeland_(illustrator)
+  translator:
+    agent_name: Stoffel, Cilia
+    alias: Stoffel, S. C. (S. Cilia)
+    gutenberg_agent_id: '7790'
+    url: http://www.gutenberg.org/2009/agents/7790
+covers:
+- cover_type: archival
+  image_path: 20957-h/images/backcover.jpg
+creator:
+  author:
+    agent_name: Long, William J. (William Joseph)
+    alias: Long, William Joseph
+    birthdate: 1867
+    deathdate: 1952
+    gutenberg_agent_id: '744'
+    url: http://www.gutenberg.org/2009/agents/744
+    wikipedia: http://en.wikipedia.org/wiki/William_Joseph_Long_(author)
+description: 'Translation of: A little brother to the bear, and other animal studies.'
+gutenberg_issued: '2007-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20957'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animal behavior'
+- !lcc 'QL'
+tableOfContents: Inleiding Bladz -- Hoe men 't bekijkt -- Een Broertje van den Beer
+  -- Whitooweek, de Kluizenaar -- Een Geniale Houtsnip -- Als Upweekis aan 't jagen
+  is -- K'dunk, de Dikkerd -- Mooweens hol -- De Indiaansche Namen.
+title: Een Broertje van den Beer
+url: http://www.gutenberg.org/ebooks/20957
